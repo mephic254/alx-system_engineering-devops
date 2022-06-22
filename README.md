@@ -1,0 +1,1 @@
+This folder has the scripts needed for the shell basics assignment
