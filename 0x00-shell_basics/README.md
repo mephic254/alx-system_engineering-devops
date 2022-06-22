@@ -1,0 +1,1 @@
+script ./0-current_working_directory will display the current working folder
