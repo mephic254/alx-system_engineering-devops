@@ -1,0 +1,9 @@
+    1  clear
+    2  cd root 
+    3  cd alx-system_engineering-devops/0x02-shell_redirections/
+    4  vi 101-gifs 
+    5  git add .
+    6  git commit -m "gifts"
+    7  git push
+    8  history
+    9  history > newfile.txt
